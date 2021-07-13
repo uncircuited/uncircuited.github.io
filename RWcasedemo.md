@@ -383,7 +383,7 @@ App. P. 13(a). The case was therefore submitted and decided on the briefs.
 
 
 
-1. [2]    The requirement that we
+1.    The requirement that we
 accept all factual allegations as true does not extend to legal conclusions,
 even those “couched as factual allegations.” Papasan v. Allain, 478 U.S.
 265, 286 (1986).
@@ -395,7 +395,7 @@ even those “couched as factual allegations.” Papasan v. Allain, 478 U.S.
 
 
 
-[3]2.  According to the Palmer
+2.  According to the Palmer
 Police Department, SOP stands for “Standard Operating Procedure.” Def.’s
 Response to Pl.’s Complaint, at 2.
 
@@ -412,6 +412,6 @@ Response to Pl.’s Complaint, at 2.
 
 
 
-3.[4] The trial judge disposed of the pleading standard by merely stating
+[3] The trial judge disposed of the pleading standard by merely stating
 that Skipetski had not stated a “direct claim, [but] a collection of various
 facts.” CCRC-CV-1308, at 4.
